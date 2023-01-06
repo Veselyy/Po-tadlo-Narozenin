@@ -1,0 +1,39 @@
+C:\Users\20s.veselyma\Downloads\OneDrive_2022-12-16\upomínač\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.exe
+C:\Users\pc\Downloads\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.deps.json
+C:\Users\pc\Downloads\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.runtimeconfig.json
+C:\Users\pc\Downloads\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.dll
+C:\Users\pc\Downloads\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.pdb
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.Form_Osoba.resources
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.Form_Prehled.resources
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.Properties.Resources.resources
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.AssemblyInfo.cs
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.dll
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\refint\upomínač.dll
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.pdb
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.genruntimeconfig.cache
+C:\Users\pc\Downloads\upomínač\upomínač\obj\Debug\net6.0-windows\ref\upomínač.dll
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.exe
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.deps.json
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.runtimeconfig.json
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.dll
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\bin\Debug\net6.0-windows\upomínač.pdb
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.Form_Osoba.resources
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.Form_Prehled.resources
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.Properties.Resources.resources
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.AssemblyInfo.cs
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.dll
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\refint\upomínač.dll
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.pdb
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\upomínač.genruntimeconfig.cache
+C:\Users\pc\OneDrive - VOŠ a SPŠ Žďár nad Sázavou\Plocha\upomínač\upomínač\obj\Debug\net6.0-windows\ref\upomínač.dll
